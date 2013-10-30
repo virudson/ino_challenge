@@ -1,0 +1,7 @@
+Given a file containing one word per line (file: wordlist.txt uploaded to this issue), print out all the combinations of words that are anagrams; each line in the output should contain a set of input words that are anagrams of each other. No word should appear in the output more than once.
+
+The correct result to find based on the wordlist.txt file is: 5629 anagrams.
+
+For added programming pleasure, find the longest words that are anagrams, and the set of anagrams containing the most words.
+
+Have fun !! :-)
