@@ -9,13 +9,14 @@ After that every team will present the solution together.
 
 
 ### Challenges
---------------
-* Week  1: [Challenge #1](https://github.com/virudson/ino_challenge/tree/master/week-01/)
-* Week  2: [Challenge #2](https://github.com/virudson/ino_challenge/tree/master/week-02/)
+ Week                                                                                   | Solution                             | Credits
+----------------------------------------------------------------------------------------|:-------------------------------------|:----------------------------------------------------------------------
+ [#1 Digital Number](https://github.com/virudson/ino_challenge/tree/master/week-01/)   	| -                                    | [Ruby quiz](http://rubyquiz.com/quiz14.html)
+ [#2 Anagram](https://github.com/virudson/ino_challenge/tree/master/week-02/)           | -                                    | [Code kata](http://codekata.pragprog.com/2007/01/kata_six_anagra.html)
 
 
 ### About us
-------------
+
 We are [Ino Techne](http://www.inotechne.com). Creative Intelligence for Business.
 
 
