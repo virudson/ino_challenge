@@ -13,7 +13,7 @@ After that every team will present the solution together.
 ----------------------------------------------------------------------------------------|:-------------------------------------|:----------------------------------------------------------------------
  [#1 Digital Number](https://github.com/virudson/ino_challenge/tree/master/week-01/)   	| -                                    | [Ruby quiz](http://rubyquiz.com/quiz14.html)
  [#2 Anagram](https://github.com/virudson/ino_challenge/tree/master/week-02/)           | -                                    | [Code kata](http://codekata.pragprog.com/2007/01/kata_six_anagra.html)
-
+ [#3 Sampling](https://github.com/virudson/ino_challenge/tree/master/week-03/)          | -   
 
 ### About us
 
